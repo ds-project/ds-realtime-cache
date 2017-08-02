@@ -10,7 +10,8 @@ Only redis-client library for python is required.
 > python -m pip install azure 
 ```
 
-Then, put some configs on file and send post request and put body just following as json type.   
+Then, put some configs on file and send post request and put body just following as json type.
+"Inputs" should follow the definition of azure ML we will use.
 
 ```json
 {
