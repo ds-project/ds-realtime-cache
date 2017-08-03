@@ -8,6 +8,7 @@ Only redis-client library for python is required.
 ```
 > cd /d/home/site/tools/
 > python -m pip install azure 
+> python -m pip install redis
 ```
 
 Then, put some configs on file and send post request and put body just following as json type.
